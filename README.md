@@ -190,7 +190,7 @@ VITE_API_BASE_URL=http://localhost:8081/api/v1.0
 ## 👩‍💻 Author
 
 **Tanushree**  
-GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+GitHub: [@tanushree31303](https://github.com/tanushree31303)
 
 ---
 
